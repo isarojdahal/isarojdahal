@@ -1,1 +1,2 @@
-![Readme Image](https://github.com/isarojdahal/isarojdahal/blob/main/image.png)
+<!-- ![Readme Image](https://github.com/isarojdahal/isarojdahal/blob/main/image.png)
+ -->
